@@ -1,7 +1,12 @@
 id: P01-v1
-modelo: Seedance 2.0
-prompt: Interior de un autobús urbano completamente vacío al amanecer, luz dorada y suave que entra por las ventanas y recorre los asientos, plano fijo a la altura de los asientos, ambiente tranquilo, sin personas.
+modelo: seedance_2_0
+prompt: Interior de un autobús urbano completamente vacío al amanecer, plano fijo a la altura de los asientos, sin personas. Luz dorada, baja y suave, de una sola fuente, entra por las ventanas y recorre los asientos. Paleta ámbar cálido con sombras azul pizarra, lente de 35 mm con poca profundidad de campo, grano fino de película, ambiente tranquilo.
 parametros:
-  duracion_s: 5
-  relacion_aspecto: "16:9"
+  duration: 5
+  resolution: 720p
+  aspect_ratio: "16:9"
+  generate_audio: false
+  mode: fast
+job_id: eadfd78e-76c3-493f-acd8-92800d06a5f2
+costo_creditos: 12.5
 validado: no

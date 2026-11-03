@@ -1,0 +1,10 @@
+id: P04-v1
+modelo: seedance_2_0
+prompt: Un autobús urbano cruza de izquierda a derecha una avenida sin tráfico al amanecer; banquetas vacías, ciudad quieta, sin personas. Plano general fijo desde la banqueta. Luz dorada, baja y suave del sol del amanecer, rasante sobre la avenida. Paleta ámbar cálido con sombras azul pizarra, sin colores saturados, lente de 35 mm con poca profundidad de campo, grano fino de película.
+parametros:
+  duration: 6
+  resolution: 720p
+  aspect_ratio: "16:9"
+  generate_audio: false
+  mode: fast
+validado: no

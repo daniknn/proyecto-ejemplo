@@ -1,0 +1,10 @@
+id: P05-v1
+modelo: seedance_2_0
+prompt: Los asientos de un autobús urbano vacío, ahora con la luz del sol más alta y las sombras más cortas, sin personas. Paneo lento de izquierda a derecha a lo largo de los asientos. Luz dorada y suave, de una sola fuente que entra por las ventanas, ya más alta que al inicio. Paleta ámbar cálido con sombras azul pizarra, sin colores saturados, lente de 35 mm con poca profundidad de campo, grano fino de película.
+parametros:
+  duration: 5
+  resolution: 720p
+  aspect_ratio: "16:9"
+  generate_audio: false
+  mode: fast
+validado: no
