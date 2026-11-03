@@ -1,0 +1,9 @@
+planos:
+  - id: P01
+    descripcion: Interior de un autobús vacío; la luz del amanecer entra por las ventanas y recorre los asientos.
+    duracion_s: 5
+    camara: plano fijo a la altura de los asientos
+    modelo: Seedance 2.0
+    prompt_id: P01-v1
+    estado: prompt
+    persona_real: no

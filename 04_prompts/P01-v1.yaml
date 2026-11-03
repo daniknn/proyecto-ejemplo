@@ -1,0 +1,7 @@
+id: P01-v1
+modelo: Seedance 2.0
+prompt: Interior de un autobús urbano completamente vacío al amanecer, luz dorada y suave que entra por las ventanas y recorre los asientos, plano fijo a la altura de los asientos, ambiente tranquilo, sin personas.
+parametros:
+  duracion_s: 5
+  relacion_aspecto: "16:9"
+validado: no
