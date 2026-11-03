@@ -8,7 +8,6 @@ planos:
     modelo: Seedance 2.0
     prompt_id: P01-v1
     estado: prompt
-    persona_real: no
   - id: P02
     escena: 1
     proposito: Detalle de los barandales con luz; da textura al amanecer y prepara la mirada para los objetos.
@@ -17,7 +16,6 @@ planos:
     camara: acercamiento lento sobre el barandal
     modelo: Seedance 2.0
     estado: idea
-    persona_real: no
   - id: P03
     escena: 2
     proposito: Introduce la bufanda, el objeto que el brief quiere que el público pueda nombrar al terminar.
@@ -26,7 +24,6 @@ planos:
     camara: acercamiento lento hacia la bufanda
     modelo: Seedance 2.0
     estado: idea
-    persona_real: no
   - id: P04
     escena: 3
     proposito: Saca la historia del autobús y muestra una ciudad vacía y quieta, que refuerza la sensación de amanecer.
@@ -35,7 +32,6 @@ planos:
     camara: plano general fijo desde la banqueta, el autobús cruza de izquierda a derecha
     modelo: Seedance 2.0
     estado: idea
-    persona_real: no
   - id: P05
     escena: 4
     proposito: Regresa al interior con la luz más alta y marca el paso del tiempo antes del plano final.
@@ -44,7 +40,6 @@ planos:
     camara: paneo lento de izquierda a derecha a lo largo de los asientos
     modelo: Seedance 2.0
     estado: idea
-    persona_real: no
   - id: P06
     escena: 4
     proposito: Cierra con la bufanda iluminada; es la imagen que el público debería llevarse y poder nombrar.
@@ -53,4 +48,3 @@ planos:
     camara: plano fijo cerrado sobre la bufanda
     modelo: Seedance 2.0
     estado: idea
-    persona_real: no
